@@ -1,2 +1,2 @@
 # OOP
-test repository for student
+test repository for students
